@@ -137,13 +137,14 @@ g++ main.cpp -o bank
 
 ---
 
-## 👨‍💻 Author
+## 🧑‍💻 Author
 
-Developed as a **CLI-based banking simulation system** with focus on:
-
-* Clean UI
-* Security
-* Structured data handling
+* TEAM CODE CATALYST
+* Purohit Kamleshsingh Savalsingh
+* Anuruddha kumar kahar
+* Aayush Singh
+* Shrimali Jainam Ravindrakumar
+* Joshi Rudram Manojbhai
 
 ---
 
